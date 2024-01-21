@@ -56,7 +56,6 @@ Continuous training on diverse image corpora helps GANs learn an increasingly so
 
 In summary, GANs play an important role in pushing the frontiers of photo-realistic editing by enabling imperceptible compositing within the Replace Anything framework.
 
-Main Features
 Human Editing
 
 One of the most common forms of editing supported is easy and realistic human replacement. The platform allows users to flexibly swap people appearing in their images.
